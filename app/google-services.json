@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "5783722012",
+    "firebase_url": "https://ipsagram-b2e23-default-rtdb.firebaseio.com",
+    "project_id": "ipsagram-b2e23",
+    "storage_bucket": "ipsagram-b2e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5783722012:android:05469e18cd77bea751a7d9",
+        "android_client_info": {
+          "package_name": "com.aadish.ipsagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlzn4fsK_vNVLrzuHZUDWe2Uh_dG2xJHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
