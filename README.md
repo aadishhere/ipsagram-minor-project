@@ -1,4 +1,4 @@
-#A Kotlin Andriod App for Community and Events in Institute of Engineering & Science. IPS Academy
+# A Kotlin Andriod App for Community and Events in Institute of Engineering & Science. IPS Academy
 
 ## Implementation
 We use Jetpack Compose as the UI framework, and Firebase as the data storage in the cloud.
