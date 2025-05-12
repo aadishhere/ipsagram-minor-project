@@ -27,15 +27,6 @@ The app provides features related to events and community interaction within the
 1.  Secure Sign-in powered by Firebase, including email verification.
 2.  Login functionality using email and password.
 
-## Screenshots
-
-(Optional: Add screenshots here to showcase the app's UI)
-
-![Screenshot 1](link_to_your_screenshot_1.png)
-![Screenshot 2](link_to_your_screenshot_2.png)
-
-*(Replace `link_to_your_screenshot_1.png` and `link_to_your_screenshot_2.png` with actual links to your screenshots, or place images directly in the repo and link them relative path)*
-
 ## Technologies Used
 
 * **Kotlin**: The official programming language for Android development.
